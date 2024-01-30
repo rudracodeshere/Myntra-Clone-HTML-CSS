@@ -1,7 +1,7 @@
 ## Myntra Clone: A Fashion E-commerce Frontend
 
-This repository holds the source code for a Myntra-inspired e-commerce website frontend built using HTML and CSS. 
-
+This repository holds the source code for a Myntra-inspired e-commerce website frontend built using HTML and CSS. <br>
+Currently work in progress👷‍♂️: <a href="https://rudracodeshere.github.io/Myntra-Clone-HTML-CSS/">Click to view Demo Site</a>
 ### Project Features:
     * Hero banner showcase with product highlights.
     * Category navigation bar.
