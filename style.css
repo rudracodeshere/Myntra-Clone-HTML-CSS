@@ -26,7 +26,8 @@ nav {
     width: 500px;
     display: flex;
     justify-content: space-evenly;
-    margin-right: 3%;
+    margin-right: 4%;
+    
 }
 
 nav a {
@@ -40,6 +41,12 @@ nav a {
     font-weight: 700;
     text-transform: uppercase;
     align-self: center;
+    padding: 27px 0;
+    border-bottom: 5px solid white;
+}
+
+nav a:hover{
+    border-bottom: 4px solid red;
 }
 
 nav a sup {
