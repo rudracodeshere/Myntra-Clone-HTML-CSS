@@ -2,16 +2,19 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
+}
+body{
+    background-color: #ceccc9;
 }
 
 header {
-    height: 80px;
-    width: 100vw;
+    width: 100%;
     background-color: white;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border-bottom:1px solid #d8d4d4 ;
+   
 }
 
 #myntra_logo {
@@ -108,4 +111,11 @@ nav a sup {
     flex-direction: column;
     align-items: center;
     margin: 4%;
+}
+
+#bannerfinal{
+    width: 100vw;
+}
+#banner{
+    margin-bottom: 1% 0;
 }
